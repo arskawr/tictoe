@@ -1,0 +1,10 @@
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\obj\Debug\tic.csproj.AssemblyReference.cache
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\obj\Debug\tic.Form1.resources
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\obj\Debug\tic.Properties.Resources.resources
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\obj\Debug\tic.csproj.GenerateResource.cache
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\obj\Debug\tic.csproj.CoreCompileInputs.cache
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\bin\Debug\tic.exe.config
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\bin\Debug\tic.exe
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\bin\Debug\tic.pdb
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\obj\Debug\tic.exe
+C:\Users\арс\OneDrive\Рабочий стол\вврпо\5\tic\tic\obj\Debug\tic.pdb
